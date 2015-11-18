@@ -1,0 +1,3 @@
+[submodule "src/Orchard.Web/Modules/HttpAuth"]
+	path = src/Orchard.Web/Modules/HttpAuth
+	url = https://github.com/Sylapse/HttpAuth.git
